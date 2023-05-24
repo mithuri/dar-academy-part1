@@ -1,0 +1,25 @@
+public class Main{
+    public static void main(String[] args){
+        String FlowersName="Rosses";
+        byte FlowersNumber= 101;
+        System.out.println(FlowersNumber);
+        System.out.println(FlowersName);
+        //первые задания;
+
+        int a = 10;
+        int b = 5;
+        int c = a + b;
+        System.out.println(c);
+        //вторые задания;
+
+        float d= 4.1234f;
+        float e= 5.4321f;
+        float f= 6.1234f;
+        float g= 7.2331f;
+        float v= d+e+f+g;
+
+        System.out.println(v);
+
+        //задания с суммой переменных с точками
+    }
+}
